@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 1,
+    "Name": "Pencil",
+    "Description": "Apsara",
+    "Price": 10.0,
+    "Quantity": 977
+  },
+  {
+    "Id": 2,
+    "Name": "Shoe",
+    "Description": "Sports Shoe",
+    "Price": 600.0,
+    "Quantity": 72
+  },
+  {
+    "Id": 3,
+    "Name": "Bag",
+    "Description": "School Bag",
+    "Price": 300.0,
+    "Quantity": 993
+  },
+  {
+    "Id": 4,
+    "Name": "clothes",
+    "Description": "cotton ",
+    "Price": 500.0,
+    "Quantity": 289
+  },
+  {
+    "Id": 6,
+    "Name": "specs",
+    "Description": "powerless",
+    "Price": 2000.0,
+    "Quantity": 500
+  },
+  {
+    "Id": 7,
+    "Name": "pen",
+    "Description": "parker",
+    "Price": 40.0,
+    "Quantity": 40
+  },
+  {
+    "Id": 8,
+    "Name": "eraser",
+    "Description": "natraj",
+    "Price": 5.0,
+    "Quantity": 60
+  },
+  {
+    "Id": 9,
+    "Name": "chairs",
+    "Description": "sofa",
+    "Price": 3000.0,
+    "Quantity": 80
+  },
+  {
+    "Id": 5,
+    "Name": "watch",
+    "Description": "titan",
+    "Price": 4000.0,
+    "Quantity": 80
+  },
+  {
+    "Id": 1,
+    "Name": "Bottle",
+    "Description": "Bottle",
+    "Price": 10.0,
+    "Quantity": 10
+  },
+  {
+    "Id": 12,
+    "Name": "ring",
+    "Description": "small",
+    "Price": 700.0,
+    "Quantity": 80
+  },
+  {
+    "Id": 12,
+    "Name": "desk",
+    "Description": "writing table",
+    "Price": 4000.0,
+    "Quantity": 5
+  }
+]
