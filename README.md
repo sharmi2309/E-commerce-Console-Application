@@ -6,5 +6,5 @@
 - **User**: View the Products, Add to Carts, Review the carts and Place the Orders.
 - **Data Persistence**: Store user and product data using serialization to Json files.
 ## Requirements:
--.NET Framework(version 8)
-- Visual studio 
+ - .NET Framework(version 8)
+ - Visual studio 
